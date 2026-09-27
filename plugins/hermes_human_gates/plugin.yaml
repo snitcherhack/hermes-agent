@@ -1,0 +1,5 @@
+name: hermes-human-gates
+version: 1.0.0
+description: "Bridge DVK Hermes Controller human gates to Telegram using scoped plugin callbacks."
+author: "DVK"
+kind: backend
